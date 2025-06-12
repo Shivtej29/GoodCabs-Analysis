@@ -13,20 +13,19 @@ The insights are derived from structured trip and passenger data, benchmark targ
 ## Data Overview
 ### Databases & Tables  
 
-trips_db– Trip & Passenger Data   
-dim_city-	Contains city identifiers and names  
-dim_date-	Calendar-level data: month, day type  
-fact_trips-	Individual trip data: distance, fare, ratings  
-fact_passenger_summary-	Monthly aggregated passenger metrics  
-dim_repeat_trip_distribution-	Trip frequency by repeat passengers  
-targets_db- Monthly Performance Targets  
-monthly_target_trips- Total trip volume targets  
-monthly_target_new_passengers	City- wise monthly new user acquisition targets  
-city_target_passenger_rating- Desired average passenger ratings  
+• trips_db– Trip & Passenger Data   
+• dim_city-	Contains city identifiers and names  
+• dim_date-	Calendar-level data: month, day type  
+• fact_trips-	Individual trip data: distance, fare, ratings  
+• fact_passenger_summary-	Monthly aggregated passenger metrics  
+• dim_repeat_trip_distribution-	Trip frequency by repeat passengers  
+• targets_db- Monthly Performance Targets  
+• monthly_target_trips- Total trip volume targets  
+• monthly_target_new_passengers	City- wise monthly new user acquisition targets  
+• city_target_passenger_rating- Desired average passenger ratings  
 
 ## Business Questions
 The project aimed to answer the following:
-Primary Questions:
 1.	Which cities are underperforming in terms of trip volume?
 2.	What is the repeat rate across cities?
 3.	Are average passenger ratings meeting targets?
@@ -40,7 +39,7 @@ Primary Questions:
 ### KPIs: [Metric Value, Target, difference]   
 • Total Trips->	425.90K,	429.00K,	-0.72%  
 • New Passengers->	177.00K,	185.10K,	-4.38%  
-• Average Passenger Rating-> (APR)	7.66,	7.98,	-3.94%  
+• Average Passenger Rating (APR)->	7.66,	7.98,	-3.94%  
 
 ### Other Key Figures:  
 •	Revenue: ₹108.19M  
@@ -63,7 +62,7 @@ Primary Questions:
 •	Lowest: Mysore (11.23%), Jaipur (17.43%)  
 
 ## Monthly Revenue Trend - Month	Revenue	Change
-Jan	-> ₹18.45M, NA
+Jan	-> ₹18.45M, NA  
 Feb	-> ₹15.36M,	-14.61%  
 Mar	-> ₹19.86M,	+7.61%  
 Apr	-> ₹17.70M,	-6.06%  
