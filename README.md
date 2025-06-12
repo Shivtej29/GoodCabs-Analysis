@@ -1,6 +1,6 @@
 # Goodcabs Performance & Passenger Analytics Report
 ## Click here to access : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=ecc1d815-3e1b-4683-be10-ff728479f86f&autoAuth=true&ctid=e7ac416f-0da9-45aa-84db-071f5b1bb87a) 
-## Project Summary:
+## Project Summary
 Goodcabs is a ride-hailing company focused on Tier-2 Indian cities. This analysis was undertaken to:
 
 •	Evaluate trip and passenger trends across cities  
@@ -104,7 +104,7 @@ This data helps in targeting promotions on specific days.
 •	APR gap suggests a need for service quality improvements (especially Kochi, Mysore)  
 •	Weekend demand is higher in several cities – opportunity for targeted promotions  
 
-### Recommendations:  
+### Recommendations  
 1.	Improve retention in low RPR cities with loyalty programs.  
 2.	Boost customer experience in cities with low ratings using targeted driver training and support.  
 3.	Explore price optimization based on AFP and trip distance insights.  
@@ -113,4 +113,12 @@ This data helps in targeting promotions on specific days.
 
 ## Conclusion  
 Goodcabs is performing near targets in terms of trips and revenue but falls short in user satisfaction and new user growth. Targeted regional interventions can help close these gaps.
+
+## Preview:
+![image](https://github.com/user-attachments/assets/434775c6-3ff5-4fc6-81c7-a04c40b75444)
+![image](https://github.com/user-attachments/assets/6e3b5f57-8bc4-48cd-9844-314a79efee2e)
+![image](https://github.com/user-attachments/assets/4b3c3ff2-966b-43c9-ad6a-7137fef158c6)
+![image](https://github.com/user-attachments/assets/559199bd-703b-4c17-bf6e-00489e15841e)
+
+
 
